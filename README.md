@@ -1,1 +1,1 @@
-# .github
+This is a special GitHub repository : https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile
